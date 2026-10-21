@@ -1,0 +1,6 @@
+.env
+.git
+bin
+console/node_modules
+console/dist
+*.local
